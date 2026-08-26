@@ -1,0 +1,50 @@
+{
+  "handle": "razzor@localhost",
+  "prompt": "~ %",
+  "commands": [
+    "./profile.sh --secure",
+    "whoami",
+    "cat treats.db",
+    "sudo systemctl status meow.service",
+    "ping -c 9 nine.lives",
+    "grep -ri 'bugs' ./contracts",
+    "chmod +x claws",
+    "sudo rm -rf ./mice",
+    "git blame paw_print.svg",
+    "curl -s mainnet.eth | purr"
+  ],
+  "status_badges": [
+    "SUDO MEOW",
+    "SCANNING FOR TREATS",
+    "404 MOUSE NOT FOUND",
+    "PURR.EXE RUNNING",
+    "SESSION: PURRSISTENT",
+    "ROOT ACCESS: PAWS ONLY",
+    "FIREWALL: CLAWS UP",
+    "ENCRYPTING YARN.zip",
+    "UPTIME: 9 LIVES",
+    "STATUS: NOT A ROBOT (PROBABLY)"
+  ],
+  "fields": [
+    { "label": "Subject:", "value": "Tejaswa Rastogi (Razzor)" },
+    { "label": "Role:", "value": "Blockchain Security Engineer" },
+    { "label": "", "value": "@ ADI Foundation" },
+    { "label": "Prev:", "value": "Matter Labs/zkSync, ConsenSys Diligence" },
+    { "label": "", "value": "" },
+    { "label": "Focus:", "value": "Smart Contract Audits" },
+    { "label": "", "value": "Zero-Knowledge Proof Systems · DeFi Sec" },
+    { "label": "", "value": "" },
+    { "label": "Talks:", "value": "ETHTaipei'25 - ZK Verifiers Exposed" },
+    { "label": "", "value": "c0c0n16'23 - Phishing Smart Contracts" },
+    { "label": "", "value": "DEF CON 29 - Sandwich Attacks via ZKP" },
+    { "label": "Mentored:", "value": "ETHGlobal Taipei, Istanbul, Paris" },
+    { "label": "", "value": "Circuit Breaker" }
+  ],
+  "contact": [
+    { "label": "Portfolio:", "value": "razzor.xyz" },
+    { "label": "GitHub:", "value": "razzor-codes" },
+    { "label": "LinkedIn:", "value": "linkedin.com/in/razzor" },
+    { "label": "Twitter/X:", "value": "@razzor_tweet" }
+  ],
+  "footer_note": "send me a meow to start a conversation with me"
+}
